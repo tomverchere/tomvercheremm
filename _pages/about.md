@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: archive
 ---
 
 I am a Robotics PhD student in the [School of Mechanical Engineering](https://www.me.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/) under [Dr. Frank Dellaert](https://dellaert.github.io/).
