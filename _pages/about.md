@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://jd-florez.github.io/
 title: "About Me"
 excerpt: "About me"
 author_profile: true
