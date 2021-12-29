@@ -22,10 +22,10 @@ foo:
 main:
   - title: "Juan-Diego Florez"
     url: /
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
   - title: "Research"
-    url: /research/
+    url: /publications/
   - title: "Hobbies"
     url: /hobbies/
     
