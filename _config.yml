@@ -104,14 +104,14 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/assets/images/michael-rose.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Atlanta, GA"
-  email            : "jdfc3@gatech.edu"
+  email            : "jflorez.vca@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jdfc3@gatech.edu"
+      url: "mailto:jflorez.vca@mail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/florez_jd"
