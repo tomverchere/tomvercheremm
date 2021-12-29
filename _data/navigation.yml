@@ -22,8 +22,8 @@ foo:
 main:
   - title: "Juan-Diego Florez"
     url: /
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Research"
     url: /research/
   - title: "Hobbies"
