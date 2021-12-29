@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "Juan-Diego Florez"
-    url: https://jd-florez.github.io/
+    url: /
   - title: "Projects"
     url: /projects/
   - title: "Research"
