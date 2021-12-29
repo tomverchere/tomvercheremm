@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JD's Website"
+title                    : "Juan-Diego Florez"
 title_separator          : "-"
 subtitle                 : "Finally." # site tagline that appears below site title in masthead
 name                     : &name "Juan-Diego Florez" # &name is a YAML anchor which can be *referenced later
@@ -27,8 +27,8 @@ repository               : "JD-Florez/jd-florez.github.io" # GitHub username/rep
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -105,19 +105,11 @@ analytics:
 author:
   name             : *name
   avatar           : "/images/bio_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Robotics PhD Student, GaTech"
   location         : "Atlanta, GA"
   email            : "jflorez.vca@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jflorez.vca@mail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/florez_jd"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JD-Florez"
+  github           : "JD-Florez"
+  twitter          : "florez_jd"
 
 # Site Footer
 footer:
