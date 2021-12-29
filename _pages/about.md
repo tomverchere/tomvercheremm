@@ -16,3 +16,10 @@ I started at Georgia Tech in Fall 2020 after completing my MS in Robotics Engine
 My research involves graphical model techniques and their applications in robotics. Thus, I contribute to [GTSAM](https://gtsam.org) in the areas of kinodynamic modeling, control, and trajectory optimization and representation.
 
 Note: This site is under construction!
+
+### Latest Updates
+
+- I scheduled my PhD qualifier for Spring 2022 with committee members: Dr. Panagiotis Tsiotras, Dr. Seth Hutchinson, and Dr. Frank Dellaert.
+- Working to submit a paper to IROS 2022 (deadline: March?)
+- Applying to internships!
+- I made this awesome website!
