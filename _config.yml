@@ -105,11 +105,12 @@ analytics:
 author:
   name             : *name
   avatar           : "/images/bio_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Robotics PhD Student, GaTech"
+  bio              : "Robotics PhD Student\nGeorgia Tech"
   location         : "Atlanta, GA"
   email            : "jflorez.vca@gmail.com"
   github           : "JD-Florez"
   twitter          : "florez_jd"
+  linkedin         : "jdflorez"
 
 # Site Footer
 footer:
