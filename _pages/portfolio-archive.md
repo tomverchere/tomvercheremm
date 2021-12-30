@@ -9,8 +9,7 @@ author_profile: true
 
 ---
 
-Sample document listing for the collection `_portfolio`.
-
+What I'm up to, in a productive sense...
 {% include base_path %}
 
 {% for post in site.portfolio %}
