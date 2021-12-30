@@ -1,18 +1,18 @@
 ---
-title: Portfolio
+title: Hobbies
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /hobbies/
+collection: hobbies
 entries_layout: grid
 classes: wide
 author_profile: true
 
 ---
 
-Sample document listing for the collection `_portfolio`.
+This is what I do in my free time!
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% for post in site.hobbies %}
   {% include archive-single.html %}
 {% endfor %}
