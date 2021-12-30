@@ -1,6 +1,6 @@
 ---
-title: "IK Solver"
-excerpt: "Robot arm discretization into smaller manipulators for kinematic modeling."
+title: "Art Skills"
+excerpt: "Application of visual modeling in trajectory representation and optimization and manipulator control for robot art."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,4 +23,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I work with Andrew Scheuler on solving the IK model of high DOF robot arms analytically.
+I'm learning GTSAM for this... Let's hope it goes well! This pays the bills :)

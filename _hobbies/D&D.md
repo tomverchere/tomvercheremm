@@ -1,6 +1,6 @@
 ---
-title: "Voiceover"
-excerpt: "I am trying to pursue voice-acting roles as a hobby!"
+title: "Dungeons & Dragons"
+excerpt: "I am the Dungeon master of a homebrew game: **Terthei, Shadow's Wake**."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,4 +23,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I currently use an Electrovoice RE20 hooked up to a GoXLR Mini for some minor voiceover auditions. I chose this microphone for the quality, and I chose this interface for its usefulness in streaming/broadcasting on platforms such as Twitch. I have yet to land any roles, but here's hoping!
+I first started this campaign in May of 2020, as I was inspired by the fantastic Dungeon Master (Felix Sanchez) of my first foray into D&D. I started with a simple story about a cursed desert teeming with undead, but that story grew into what is now turning out to be a multi-year campaign full of memorale moments spent with wonderful friends and my lovely wife. In DMing I've learned how to organize adults with disparate schedules, manage my time (if only slightly better), and embrace my love of unbridled imagination and improvisational storytelling.
