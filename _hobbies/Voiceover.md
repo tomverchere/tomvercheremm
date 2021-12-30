@@ -2,8 +2,8 @@
 title: "Voiceover"
 excerpt: "I am trying to pursue voice-acting roles as a hobby!"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /images/re20.png
+  teaser: images/re20.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,9 +12,9 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /images/re20.png
+    image_path: images/re20.png
+    alt: "EV RE20 Microphone"
   - url: /images/unsplash-gallery-image-2.jpg
     image_path: images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
