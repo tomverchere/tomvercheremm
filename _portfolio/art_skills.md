@@ -2,13 +2,13 @@
 title: "Art Skills"
 excerpt: "Application of visual modeling in trajectory representation and optimization and manipulator control for robot art."
 header:
-  image: /images/unsplash-gallery-image-1.jpg
-  teaser: images/unsplash-gallery-image-1-th.jpg
+  image: /images/graffiti_gtsam.jpg
+  teaser: images/graffiti_gtsam
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /images/bio_pic.jpg
     image_alt: "logo"
-    text: "Graduate reearch Assistant"
+    text: "Graduate Research Assistant"
   - title: "Responsibilities"
     text: "Trajectory representation and optimization, teleoperation of Panda arm"
 gallery:
