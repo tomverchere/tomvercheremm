@@ -17,6 +17,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I'm learning GTSAM for this... Let's hope it goes well! This pays the bills :)
+This a research project funded by NSF involving the application of robotics to artistic endeavors. My involvement in the project includes:
+- Trajectory representation (Sigma Lognormal Method for human trajectory representation)
+- Trajectory estimation/optimization (applied factor graphs using GTSAM)
+- Impedance matching and control of the Franka Emika Panda manipulator for teleoperated trajectory generation
 
-{% include gallery caption="This is a sample gallery." %}
+I'm learning GTSAM and GTDynamics for this... Let's hope it goes well! This pays the bills :)
+
+{% include gallery caption="This is a gallery of generated trajectories and outputs." %}

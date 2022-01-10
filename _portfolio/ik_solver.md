@@ -17,4 +17,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I work with Andrew Schueler on solving the IK model of high DOF robot arms analytically.
+I work with Andrew Schueler on solving the IK model of high DOF robot arms analytically. We plan to submit to IROS in March!

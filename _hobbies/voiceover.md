@@ -2,7 +2,7 @@
 title: "Voiceover"
 excerpt: "I am trying to pursue voice-acting roles as a hobby!"
 header:
-  image: /images/re20.png
+  # image: /images/re20.png
   teaser: images/re20.png
 author_profile: true
 gallery:
@@ -18,3 +18,5 @@ gallery:
 ---
 
 I currently use an Electrovoice RE20 hooked up to a GoXLR Mini for some minor voiceover auditions. I chose this microphone for the quality, and I chose this interface for its usefulness in streaming/broadcasting on platforms such as Twitch. I have yet to land any roles, but here's hoping!
+
+One of my goals this spring is to submit an audition recording every two weeks!
