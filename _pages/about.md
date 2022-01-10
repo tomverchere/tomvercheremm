@@ -16,7 +16,9 @@ I started at Georgia Tech in Fall 2020 after completing my MS in Robotics Engine
 My research involves graphical model techniques and their applications in robotics. Thus, I contribute to [GTSAM](https://gtsam.org) in the areas of kinodynamic modeling, control, and trajectory optimization and representation.
 
 ### PDFs
-My resume can be found [here](/pdf/JD_Florez_Resume_12-29-21.pdf).
+
+- My [resume](/pdf/JD_Florez_Resume_12-29-21.pdf).
+- My [CV](/pdf/JD_Florez_Resume_12-29-21.pdf).
 
 ### Latest Updates
 
