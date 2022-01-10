@@ -3,7 +3,7 @@ title: "Art Skills"
 excerpt: "Application of visual modeling in trajectory representation and optimization and manipulator control for robot art."
 header:
   image: /images/graffiti_gtsam.jpg
-  teaser: images/graffiti_gtsam
+  teaser: images/JD_Gerry_Graffiti_ATL.jpg
 sidebar:
   - title: "Role"
     image: /images/bio_pic.jpg
@@ -12,8 +12,8 @@ sidebar:
   - title: "Responsibilities"
     text: "Trajectory representation and optimization, teleoperation of Panda arm"
 gallery:
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: images/unsplash-gallery-image-1-th.jpg
+  - url: /images/JD_Gerry_Graffiti_ATL.jpg
+    image_path: images/JD_Gerry_Graffiti_ATL.jpg
     alt: "placeholder image 1"
   - url: /images/unsplash-gallery-image-2.jpg
     image_path: images/unsplash-gallery-image-2-th.jpg
