@@ -20,12 +20,18 @@
 
 # main links
 main:
-  # - title: "Juan-Diego Florez"
-  #   url: /
   - title: "Portfolio"
     url: /portfolio/
-  # - title: "Research"
-  #   url: /research/
+    children:
+      - title: "Art Skills"
+      - url: /art_skills/
+      - title: "IK Solver"
+      - url: /ik_solver/
   - title: "Hobbies"
     url: /hobbies/
+    children:
+      - title: "Dungeons and Dragons"
+      - url: /DnD/
+      - title: "Voiceover"
+      - url: /Voiceover/
     
