@@ -3,14 +3,14 @@ title: "Dungeons & Dragons"
 excerpt: "I am the Dungeon master of a homebrew game: **Terthei, Shadow's Wake**."
 header:
   image: /images/dnd.png
-  teaser: /images/dnd.png
+  teaser: images/dnd.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Dungeon Master"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Build and expand on a homebrew world"
 gallery:
   - url: /images/dnd.png
     image_path: images/dnd.png
