@@ -7,13 +7,11 @@ main:
       - url: /art_skills/
       - title: "IK Solver"
       - url: /ik_solver/
-      - title: "Dungeons and Dragons"
-      - url: /dnd/
   - title: "Hobbies"
     url: /hobbies/
     children:
       - title: "Dungeons and Dragons"
-      - url: /dnd/
+      - url: /d&d/
       - title: "Voiceover"
       - url: /voiceover/
     
