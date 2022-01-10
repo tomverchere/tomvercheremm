@@ -1,16 +1,10 @@
 ---
 title: "IK Solver"
 excerpt: "Robot arm discretization into smaller manipulators for kinematic modeling."
-header:
-  image: /images/unsplash-gallery-image-1.jpg
-  teaser: images/unsplash-gallery-image-1-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Researcher"
-  - title: "Responsibilities"
-    text: "Currently, write the paper! Then figure out self-motion stuff."
+# header:
+#   image: /images/unsplash-gallery-image-1.jpg
+#   teaser: images/unsplash-gallery-image-1-th.jpg
+author_profile: true
 gallery:
   - url: /images/unsplash-gallery-image-1.jpg
     image_path: images/unsplash-gallery-image-1-th.jpg

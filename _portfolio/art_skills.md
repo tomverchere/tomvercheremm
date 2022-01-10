@@ -2,9 +2,9 @@
 title: "Art Skills"
 author_profile: true
 excerpt: "Application of visual modeling in trajectory representation and optimization and manipulator control for robot art."
-header:
-  image: /images/graffiti_gtsam.jpg
-  teaser: images/JD_Gerry_Graffiti_ATL.jpg
+# header:
+#   image: /images/graffiti_gtsam.jpg
+#   teaser: images/JD_Gerry_Graffiti_ATL.jpg
 gallery:
   - url: /images/JD_Gerry_Graffiti_ATL.jpg
     image_path: images/JD_Gerry_Graffiti_ATL.jpg

@@ -4,13 +4,7 @@ excerpt: "I am trying to pursue voice-acting roles as a hobby!"
 header:
   image: /images/re20.png
   teaser: images/re20.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+author_profile: true
 gallery:
   - url: /images/re20.png
     image_path: images/re20.png

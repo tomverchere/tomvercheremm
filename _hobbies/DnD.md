@@ -1,16 +1,10 @@
 ---
 title: "Dungeons & Dragons"
 excerpt: "I am the Dungeon master of a homebrew game: **Terthei, Shadow's Wake**."
-header:
-  image: /images/unsplash-gallery-image-1.jpg
-  teaser: images/unsplash-gallery-image-1-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Dungeon Master"
-  - title: "Responsibilities"
-    text: "Build and expand on a homebrew world"
+# header:
+#   image: /images/unsplash-gallery-image-1.jpg
+#   teaser: images/unsplash-gallery-image-1-th.jpg
+author_profile: true
 gallery:
   - url: /images/dnd.png
     image_path: images/dnd.png
