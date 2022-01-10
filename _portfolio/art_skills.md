@@ -18,3 +18,5 @@ gallery:
 ---
 
 I'm learning GTSAM for this... Let's hope it goes well! This pays the bills :)
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
