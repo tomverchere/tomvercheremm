@@ -4,7 +4,7 @@ excerpt: "Application of visual modeling in trajectory representation and optimi
 header:
   # image: /images/graffiti_gtsam.jpg
   teaser: images/JD_Gerry_Graffiti_ATL.jpg
-author_profile: true
+# author_profile: true
 gallery:
   - url: /images/JD_Gerry_Graffiti_ATL.jpg
     image_path: images/JD_Gerry_Graffiti_ATL.jpg
