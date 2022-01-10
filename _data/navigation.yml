@@ -20,12 +20,12 @@
 
 # main links
 main:
-  - title: "Juan-Diego Florez"
-    url: /
+  # - title: "Juan-Diego Florez"
+  #   url: /
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
   - title: "Hobbies"
     url: /hobbies/
     
