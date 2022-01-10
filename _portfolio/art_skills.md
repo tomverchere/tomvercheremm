@@ -1,10 +1,10 @@
 ---
 title: "Art Skills"
-author_profile: true
 excerpt: "Application of visual modeling in trajectory representation and optimization and manipulator control for robot art."
 header:
   # image: /images/graffiti_gtsam.jpg
   teaser: images/JD_Gerry_Graffiti_ATL.jpg
+author_profile: true
 gallery:
   - url: /images/JD_Gerry_Graffiti_ATL.jpg
     image_path: images/JD_Gerry_Graffiti_ATL.jpg
@@ -19,4 +19,4 @@ gallery:
 
 I'm learning GTSAM for this... Let's hope it goes well! This pays the bills :)
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery." %}
