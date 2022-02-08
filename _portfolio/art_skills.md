@@ -17,11 +17,16 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-This a research project funded by NSF involving the application of robotics to artistic endeavors. My involvement in the project includes:
-- Trajectory representation (Sigma Lognormal Method for human trajectory representation)
-- Trajectory estimation/optimization (applied factor graphs using GTSAM)
-- Impedance matching and control of the Franka Emika Panda manipulator for teleoperated trajectory generation
+This a research project funded by NSF involving human-robot collaboration in artistic endeavors. My involvement in the project includes:
+- Human-generated trajectory representation and generation
+  - Human-generated velocity modeling for robot motion trajectories
+  - Trajectory parameter optimization using factor graphs and Levenberg-Marquardt optimization (GTSAM)
+- Teleoperation of Franka Emika Panda for artistic endeavors
+  - Impedance matching and control
+  - Haptic bilateral teleoperation using a Novint Falcon haptic device
+- Help with evaluation step of cable-driven parallel robot (CDPR) for GTGraffiti project
+  - Paper accepted to ICRA 2022
 
-I'm learning GTSAM and GTDynamics for this... Let's hope it goes well! This pays the bills :)
-
-{% include gallery caption="This is a gallery of generated trajectories and outputs." %}
+I can share more details after the initial Arxiv publication.
+We are planning to submit to IROS in March!
+# {% include gallery caption="This is a gallery of generated trajectories and outputs." %}

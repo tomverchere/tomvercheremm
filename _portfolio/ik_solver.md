@@ -1,6 +1,6 @@
 ---
-title: "IK Solver"
-excerpt: "Robot arm discretization into smaller manipulators for kinematic modeling."
+title: "7-DOF Analytical IK Solver"
+excerpt: "Robot Kinematic Chain Clustering and Kinematic Modeling."
 # header:
 #   image: /images/unsplash-gallery-image-1.jpg
 #   teaser: images/unsplash-gallery-image-1-th.jpg
@@ -17,4 +17,9 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I work with Andrew Schueler on solving the IK model of high DOF robot arms analytically. We plan to submit to IROS in March!
+I work with Andrew Schueler on analytically solving the IK model of 7-DOF robot robot arms. Topics explored in our methodology:
+- Self motion
+- Kinematic modeling of manipulators with joint offsets at the wrist and elbow (such as the Franka Emika Panda)
+
+I can share more details after the initial Arxiv publication.
+ We are working to submit to IROS in March!
