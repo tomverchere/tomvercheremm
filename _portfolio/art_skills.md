@@ -29,4 +29,3 @@ This a research project funded by NSF involving human-robot collaboration in art
 
 I can share more details after the initial Arxiv publication.
 We are planning to submit to IROS in March!
-# {% include gallery caption="This is a gallery of generated trajectories and outputs." %}

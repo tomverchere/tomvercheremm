@@ -17,8 +17,8 @@ My research involves graphical model techniques and their applications in roboti
 
 ### PDFs
 
-- My [resume](/pdf/JD_Florez_Resume_12-29-21.pdf).
-- My [CV](/pdf/JD_Florez_Resume_12-29-21.pdf).
+- My [resume](/pdf/JD_Florez_Resume_02-08-22.pdf).
+- My [CV](/pdf/JD_Florez_Resume_02-08-22.pdf).
 
 ### Latest Updates
 
