@@ -9,12 +9,6 @@ gallery:
   - url: /images/JD_Gerry_Graffiti_ATL.jpg
     image_path: images/JD_Gerry_Graffiti_ATL.jpg
     alt: "placeholder image 1"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 This a research project funded by NSF involving human-robot collaboration in artistic endeavors. My involvement in the project includes:

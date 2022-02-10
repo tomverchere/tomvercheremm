@@ -128,7 +128,7 @@ BibTexEntry.prototype.toList = function()
       break;
     case "phdthesis":
       string += "<li>institution : " + this.institution;
-      string += "<li>number      : " + this.number;
+      string += "<li>committee : " + this.committee;
       break;
   }
   return string + "</ul>";
@@ -221,7 +221,7 @@ BibTexEntry.prototype.render = function(database)
     case "phdthesis":
       renderTitleAuthors (this);
       lookup(this,database,"institution");
-      string += ", " + span("number",this.number);
+      string += ", " + span("committee",this.committee);
       string += ", " + span("year",this.year);
       break;
   }
