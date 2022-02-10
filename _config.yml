@@ -275,6 +275,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: archive
+      author_profile: true
+      share: true
   # _portfolio
   - scope:
       path: ""
@@ -291,3 +299,4 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      
