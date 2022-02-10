@@ -23,8 +23,8 @@ My research involves graphical model techniques and their applications in roboti
 ### Latest Updates
 
 - I scheduled my PhD qualifier for Spring 2022 with committee members: Dr. Panagiotis Tsiotras, Dr. Seth Hutchinson, and Dr. Frank Dellaert.
-- Working to submit a paper to IROS 2022 (deadline: March?)
+- Working to submit 2 papers to IROS 2022
 - Applying to internships!
-- I made this awesome website!
+- I made (and am working on) this awesome website!
 
 Note: This site is under construction!
