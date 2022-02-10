@@ -119,14 +119,14 @@ BibTexEntry.prototype.toList = function()
   string += "<li>year   : " + this.year;
   string += "<li>title  : " + this.title;
   switch (this.type) {
-    case "Article":
+    case "article":
       string += "<li>journal : " + this.journal;
       break;
-    case "InProceedings":
-    case "InCollection":
+    case "inproceedings":
+    case "incollection":
       string += "<li>booktitle : " + this.booktitle;
       break;
-    case "TechReport":
+    case "thesis":
       string += "<li>institution : " + this.institution;
       string += "<li>number      : " + this.number;
       break;
@@ -207,18 +207,18 @@ BibTexEntry.prototype.render = function(database)
         str = span("author",this.name);
       string += "<span id=\""+this.key+"\">" + str + "</span>";
       break;
-    case "Article":
+    case "article":
       renderTitleAuthors (this);
       lookup(this,database,"journal");
       string += ", " + span("year",this.year);
       break;
-    case "InProceedings":
-    case "InCollection":
+    case "inproceedings":
+    case "incollection":
       renderTitleAuthors (this);
       lookup(this,database,"booktitle");
       string += ", " + span("year",this.year);
       break;
-    case "TechReport":
+    case "thesis":
       renderTitleAuthors (this);
       lookup(this,database,"institution");
       string += ", " + span("number",this.number);
