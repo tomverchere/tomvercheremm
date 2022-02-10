@@ -126,7 +126,7 @@ BibTexEntry.prototype.toList = function()
     case "incollection":
       string += "<li>booktitle : " + this.booktitle;
       break;
-    case "thesis":
+    case "phdthesis":
       string += "<li>institution : " + this.institution;
       string += "<li>number      : " + this.number;
       break;
@@ -218,7 +218,7 @@ BibTexEntry.prototype.render = function(database)
       lookup(this,database,"booktitle");
       string += ", " + span("year",this.year);
       break;
-    case "thesis":
+    case "phdthesis":
       renderTitleAuthors (this);
       lookup(this,database,"institution");
       string += ", " + span("number",this.number);
