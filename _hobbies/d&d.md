@@ -27,4 +27,4 @@ In DMing I've learned how to:
 - manage my time (if only slightly better)
 - get good at improvisational storytelling
 
-{% include gallery caption="Here are some maps I've made!" %}
+<!-- {% include gallery caption="Here are some maps I've made!" %} -->
