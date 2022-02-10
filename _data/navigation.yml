@@ -7,6 +7,11 @@ main:
       - url: /art_skills/
       - title: "IK Solver"
       - url: /ik_solver/
+  - title: "Publications"
+    url: /publications/
+    # children:
+    #   - title: "Child"
+    #   - url: /child/
   - title: "Hobbies"
     url: /hobbies/
     children:
