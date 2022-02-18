@@ -3,15 +3,36 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     children:
-      - title: "Art Skills"
+      - title: "Art Skills" # Borg lab work and multidisc-robotics
       - url: /art_skills/
-      - title: "IK Solver"
+      - title: "IK Solver" # Research with Andrew
       - url: /ik_solver/
+      - title: "Machine Learning" # Cityscapes dataset, GMM?
+      - url: /machine_learning/
+      - title: "Mechatronics: Object Tracking"  # SCP096 project
+      - url: /ATVA/
+      - title: "VERNE Europa Robot" # VERNE class
+      - url: /VERNE/
+      - title: "A* Search on ISS" # Autonomy class
+      - url: /tgr_iss/
+      - title: "Turtlebot3 Sensing and Navigation" # Intro to robotics class
+      - url: /turtlebot3/
+      - title: "Variable Stiffness Actuation" # Thesis
+      - url: /bene_vsa/
+      - title: "ATLAS Robot" # Humanoid robotics class
+      - url: /atlas/
+      - title: "Animatronic Eye" # Smart Materials & Actuation class
+      - url: /animatronic_eye/
+      - title: "Mini Rovers" # Senior Design
+      - url: /mini_rovers/
+      - title: "Mechatronics: Robot Arm Control" # Mechatronics FIT
+      - url: /robot_arm/
+      - title: "FSAE" # FSAE Chassis
+      - url: /fsae/
+      - title: "Collarphones" # High school capstone
+      - url: /collarphones/
   - title: "Publications"
     url: /publications/
-    # children:
-    #   - title: "Child"
-    #   - url: /child/
   - title: "Hobbies"
     url: /hobbies/
     children:
