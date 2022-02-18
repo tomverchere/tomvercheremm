@@ -12,3 +12,5 @@ gallery:
 ---
 
 I will be working with Daniel Martinez, Andy Nieves, Vivek Mallampati, and Kartik Ramachandruni on implementing machine learning algorithms on the Cityscapes dataset to *X real-world application*.
+
+More info coming soon!
