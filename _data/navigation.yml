@@ -29,6 +29,8 @@ main:
       - url: /robot_arm/
       - title: "FSAE" # FSAE Chassis
       - url: /fsae/
+      - title: "FIRST Robotics" # FIRST robotics competition
+      - url: /frc/
       - title: "Collarphones" # High school capstone
       - url: /collarphones/
   - title: "Publications"
