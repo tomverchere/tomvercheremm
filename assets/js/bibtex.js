@@ -221,7 +221,7 @@ BibTexEntry.prototype.render = function(database)
     case "phdthesis":
       renderTitleAuthors (this);
       lookup(this,database,"institution");
-      string += ", " + span("committee",this.committee);
+      // string += ", " + span("committee",this.committee);
       string += ", " + span("year",this.year);
       break;
   }

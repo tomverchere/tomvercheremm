@@ -13,6 +13,6 @@ gallery:
 
 The project was my MS thesis, and consisted of the development of a methodology used to design an elastic element for variable stiffness actuation. The elastic element consisted of spring steel leaves that are spread radially around a hub within a shell that has jamming extrusions within it. As an actuator rotates the central hub, the leaves will collide with and deflect against the extrusions, causing a nonlinear stiffness response.
 
-The method used to custom-design this elastic element for use in systems with desired performance requirements is outlined in my thesis document.
+The method used to custom-design this elastic element for use in systems with desired performance requirements is outlined in my [thesis document](https://digital.wpi.edu/concern/etds/1g05ff34f?).
 
 More info coming soon!
