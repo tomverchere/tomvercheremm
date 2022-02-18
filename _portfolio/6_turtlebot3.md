@@ -1,6 +1,6 @@
 ---
 title: "Turtlebot3 Sensing and Navigation"
-excerpt: **Coursework** Control, navigation, and disturbance rejection for the Turtlebot3.
+excerpt: "__Control__, navigation, and disturbance rejection for the Turtlebot3."
 header:
   #image: /images/unsplash-gallery-image-1.jpg
   teaser: images/placeholder.png
