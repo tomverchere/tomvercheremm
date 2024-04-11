@@ -35,11 +35,11 @@ main:
       - url: /collarphones/
   - title: "Publications"
     url: /publications/
-  - title: "Hobbies"
+  - title: "Projects"
     url: /hobbies/
     children:
-      - title: "Dungeons and Dragons"
+      - title: "Python"
       - url: /d&d/
-      - title: "Voiceover"
+      - title: "Video Analysis"
       - url: /voiceover/
     
