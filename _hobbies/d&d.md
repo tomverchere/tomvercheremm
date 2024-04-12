@@ -1,7 +1,6 @@
 ---
-title: "Dungeons & Dragons"
-excerpt: "I am the Dungeon master of a homebrew game: 
-Terthei, Shadow's Wake."
+title: "Python Project"
+excerpt: ""
 header:
   # image: /images/unsplash-gallery-image-1.jpg
   teaser: images/dnd.png
@@ -18,13 +17,13 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-I first started this campaign in May of 2020, having been inspired to do so the dungeon master of my first experience in D&D, Felix Sanchez.
-
-I started with a simple story about a cursed desert teeming with undead, but that story grew into what is now turning out to be a multi-year campaign full of memorable moments spent with wonderful friends and my lovely wife.
+This is my Python Project. It is a graph of FECO<sub>2</sub> and V&#x0307;CO<sub>2</sub> over V&#x0307;O<sub>2</sub>.
 
 In DMing I've learned how to:
 - organize adults with disparate schedules
 - manage my time (if only slightly better)
 - get good at improvisational storytelling
+
+<script src="https://gist.github.com/tomverchere/45a3afdd5ee4a9e09f0886ad22e7f75c.js"></script>
 
 <!-- {% include gallery caption="Here are some maps I've made!" %} -->
