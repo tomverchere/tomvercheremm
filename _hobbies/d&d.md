@@ -1,13 +1,13 @@
 ---
 title: "Python Project"
-excerpt: ""
+excerpt: "Graph made using Python"
 header:
-  # image: /images/unsplash-gallery-image-1.jpg
-  teaser: images/dnd.png
+  # image: /images/python-logo.png
+  teaser: images/python-logo.png
 author_profile: true
 gallery:
-  - url: /images/python_logo.png
-    image_path: images/python_logo.png
+  - url: /images/python-logo.png
+    image_path: images/python-logo.png
     alt: "Python Logo Logo"
   - url: /images/PythonGraph.png
     image_path: images/PythonGraph.png
