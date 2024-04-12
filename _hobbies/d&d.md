@@ -18,7 +18,8 @@ gallery:
 ---
 
 This is my Python Project. It is a graph of FECO<sub>2</sub> and V&#x0307;CO<sub>2</sub> over V&#x0307;O<sub>2</sub>.
-<img src=/images/PythonGraph.png/></img>
+
+<img src=/images/PythonGraph.png/>
 
 Below is the code I wrote to produce the graph above.
 
