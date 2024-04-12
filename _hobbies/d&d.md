@@ -9,9 +9,9 @@ gallery:
   - url: /images/python_logo.png
     image_path: images/python_logo.png
     alt: "Python Logo Logo"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - url: /images/PythonGraph.png
+    image_path: images/PythonGraph.png
+    alt: "Python Graph"
   - url: /images/unsplash-gallery-image-3.jpg
     image_path: images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
