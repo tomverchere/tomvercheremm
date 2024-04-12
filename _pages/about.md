@@ -9,22 +9,10 @@ redirect_from:
 layout: archive
 ---
 
-I am a Robotics PhD student in the [School of Mechanical Engineering](https://www.me.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/) under [Dr. Frank Dellaert](https://dellaert.github.io/).
-
-I started at Georgia Tech in Fall 2020 after completing my MS in Robotics Engineering at the [Worcester Polytechnic Institute](https://www.wpi.edu/). Before that, I recieved my BS in Mechanical Engineering at the [Florida institute of Technology](https://www.fit.edu/).
-
-My research involves graphical model techniques and their applications in robotics. Thus, I contribute to [GTSAM](https://gtsam.org) in the areas of kinodynamic modeling, control, and trajectory optimization and representation.
+I am a 4th year student in the [Faculty of Kinesiology]([https://www.me.gatech.edu/](https://www.ucalgary.ca/future-students/undergraduate/explore-programs/kinesiology)) at the University of Calgary. 
+In Fall 2024, I will enter the [Werklund School of Education](https://werklund.ucalgary.ca) at the University of Calgary for two more years in hopes of becoming a Physical Education teacher.
 
 ### PDFs
 
 - My [resume](/pdf/JD_Florez_Resume_02-09-22.pdf).
 - My [CV](/pdf/JD_Florez_Resume_02-09-22.pdf).
-
-### Latest Updates
-
-- I scheduled my PhD qualifier for Spring 2022 with committee members: Dr. Panagiotis Tsiotras, Dr. Seth Hutchinson, and Dr. Frank Dellaert.
-- Working to submit 2 papers to IROS 2022
-- Applying to internships!
-- I made (and am working on) this awesome website!
-
-Note: This site is under construction!
