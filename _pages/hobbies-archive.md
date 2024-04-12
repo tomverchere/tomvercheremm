@@ -9,4 +9,4 @@ author_profile: true
 
 ---
 
-This is what I do in my free time!
+Here are my projects for KNES 381 during the Winter Semester of 2024.
