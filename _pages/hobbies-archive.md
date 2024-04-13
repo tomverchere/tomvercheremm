@@ -1,5 +1,5 @@
 ---
-title: Hobbies
+title: Projects
 layout: collection
 permalink: /hobbies/
 collection: hobbies
