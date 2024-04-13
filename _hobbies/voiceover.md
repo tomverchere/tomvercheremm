@@ -2,12 +2,12 @@
 title: "Video Analysis"
 excerpt: "Video Analysis made with Dartfish"
 header:
-  # image: /images/Dartfish.png
-  teaser: images/Dartfish.png
+  # image: /images/Dartfish.jpg
+  teaser: images/Dartfish.jpg
 author_profile: true
 gallery:
-  - url: /images/Dartfish.png
-    image_path: images/Dartfish.png
+  - url: /images/Dartfish.jpg
+    image_path: images/Dartfish.jpg
     alt: "EV RE20 Microphone"
   - url: /images/unsplash-gallery-image-2.jpg
     image_path: images/unsplash-gallery-image-2-th.jpg
