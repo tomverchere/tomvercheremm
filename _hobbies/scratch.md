@@ -20,3 +20,8 @@ gallery:
 Here is a maze game called Dragon Hunter that I made for the Scratch project.
 
 <iframe src="https://scratch.mit.edu/projects/965674067/embed" width="720" height="540" frameborder="0" scrolling="no"></iframe>
+
+In this project, I've learned how to:
+- Use Scratch, including how to add my own images, and sounds.
+- Understand in a way the structure of code and solve problems as they appear.
+  - Eg. If this action happens, this component will respond in this way. 
