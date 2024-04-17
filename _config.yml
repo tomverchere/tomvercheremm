@@ -295,4 +295,9 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      
+
+.project-teaser img {
+    height: 200px; /* Adjust as needed */
+    width: auto;
+}
+
