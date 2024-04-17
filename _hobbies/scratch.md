@@ -19,4 +19,4 @@ gallery:
 
 Here is a maze game called Dragon Hunter that I made for the Scratch project.
 
-<iframe src="https://scratch.mit.edu/projects/965674067/embed" width="480" height="360" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://scratch.mit.edu/projects/965674067/embed" width="960" height="720" frameborder="0" scrolling="no"></iframe>
