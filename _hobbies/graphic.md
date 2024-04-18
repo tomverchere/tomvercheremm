@@ -9,15 +9,15 @@ gallery:
   - url: /images/gimp-logo.png
     image_path: images/gimp-logo.png
     alt: "GIMP Logo Logo"
-  - url: /images/finalassignment.png
-    image_path: images/finalassignment.png
-    alt: "Final Assignment"
+  - url: /images/gimpimage.png
+    image_path: images/gimpimage.png
+    alt: "Gimp image"
   - url: /images/Fishing.jpg
     image_path: images/Fishing.jpg
     alt: "Fishing"
 ---
 
-This is the image I created using GIMP, and the original picture respectively
+This is the image I created using GIMP, and the original picture respectively.
 
 <img src="/images/gimpimage.png" alt="Group of people in front of a lake">
 
