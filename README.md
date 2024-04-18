@@ -1,7 +1,8 @@
-This is my new website! It is very much still a work in progress.
+# Welcome to My Website!
 
-TODO:
-1) flesh out portfolio posts
-   1) replace all *X* with the actual terms
-   2) add images
-2) ensure post titles and navigation titles match
+This is my website for KNES 381 in Winter 2024.
+It is composed of
+- an about page
+- a projects page compiling all of the projects we did in class this semester. 
+
+Thank you for visiting!
