@@ -9,12 +9,12 @@ gallery:
   - url: /images/gimp-logo.png
     image_path: images/gimp-logo.png
     alt: "GIMP Logo Logo"
-  - url: /images/PythonGraph.png
-    image_path: images/PythonGraph.png
-    alt: "Python Graph"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /images/finalassignment.png
+    image_path: images/finalassignment.png
+    alt: "Final Assignment"
+  - url: /images/Fishing.jpg
+    image_path: images/Fishing.jpg
+    alt: "Fishing"
 ---
 
 This is a graphic created using GIMP.
