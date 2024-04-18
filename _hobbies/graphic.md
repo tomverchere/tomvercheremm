@@ -19,9 +19,12 @@ gallery:
 
 This is a graphic created using GIMP.
 
-**insert image here**
+<img src="/images/finalassignment.jpg" alt="Image created with GIMP">
+
+Here is the original picture:
+<img src="/images/fishing.jpg" alt="Group of people in front of a lake">
 
 In this project, I've learned how to:
 - Utilize the GIMP software
-- Editing an image on top of another
-- Changing the color, resolution
+- Adding images on top of another, creating layers
+- Modify the color and the resolution of the image
