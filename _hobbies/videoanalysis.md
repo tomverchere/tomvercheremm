@@ -21,6 +21,8 @@ Here is a video analysis of a professional volleyball player, Micah Stahl, doing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mUPhuWTvI1E?si=QYEc5rU__6IWDDaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I ran into some issues trying to embed the Dartfish video, as I could not publish the video on Dartfish since the class' channel had expired. I had to embed it as a youtube video instead.
+
 
 In this project I've learned how to:
 - Use the Dartfish software, both on Computer and Mobile
