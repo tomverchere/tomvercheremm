@@ -17,13 +17,11 @@ gallery:
     alt: "Fishing"
 ---
 
-This is a graphic created using GIMP.
+This is the image I created using GIMP, and the original picture respectively
 
-<img src="/images/finalassignment.png" alt="Image created with GIMP" width="360" height="480">
+<img src="/images/finalassignment.png" alt="Image created with GIMP" width="360" height="480"><img src="/images/Fishing.jpg" alt="Group of people in front of a lake" width="360" height="480">
 
-Here is the original picture:
-
-<img src="/images/Fishing.jpg" alt="Group of people in front of a lake" width="360" height="480">
+In the edited picture, I added a hiker in the bottom left, and a dog to the right of the group. I also changed the sky.
 
 In this project, I've learned how to:
 - Utilize the GIMP software
