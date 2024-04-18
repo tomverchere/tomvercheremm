@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: https://tomverchere.github.io/tomvercheremm/
   - title: "Projects"
     url: /hobbies/
     children:
