@@ -14,4 +14,4 @@ In Fall 2024, I will enter the [Werklund School of Education](https://werklund.u
 
 ### More
 
-- My [resume](/pdf/JD_Florez_Resume_02-09-22.pdf).
+- My [resume](/pdf/Resume-TomVerchere.pdf).
