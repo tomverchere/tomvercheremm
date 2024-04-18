@@ -19,8 +19,7 @@ gallery:
 
 Here is a video analysis of a professional volleyball player, Micah Stahl, doing a jump serve. The video was edited using the Dartfish software.
 
-<iframe width="560" height="315" src="https://youtu.be/mUPhuWTvI1E?si=QYEc5rU__6IWDDaM" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUPhuWTvI1E?si=QYEc5rU__6IWDDaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 In this project I've learned how to:
