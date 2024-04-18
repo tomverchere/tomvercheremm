@@ -19,10 +19,10 @@ gallery:
 
 This is a graphic created using GIMP.
 
-<img src="/images/finalassignment.jpg" alt="Image created with GIMP">
+<img src="/images/finalassignment.png" alt="Image created with GIMP">
 
 Here is the original picture:
-<img src="/images/fishing.jpg" alt="Group of people in front of a lake">
+<img src="/images/Fishing.jpg" alt="Group of people in front of a lake">
 
 In this project, I've learned how to:
 - Utilize the GIMP software
