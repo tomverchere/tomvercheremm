@@ -20,13 +20,18 @@ gallery:
 Here is a video analysis of me doing a box jump. The video was edited using the Dartfish software.
 
 <video width="640" height="360" controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
+  <source src="https://dartfi.sh/2RPtyY6Amcf" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+<iframe src="https://dartfi.sh/2RPtyY6Amcf" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
 In this project I've learned how to:
 - Use the Dartfish software, both on Computer and Mobile
-- Analyze a video, including:
+- Analyze a video of a movement, including:
   - Finding the key frames to make into stills
   - How to edit the video by adding angles, text, and lines
+- Analyze a full sports game
+  - Utilizing the software to keep track of points, or certain actions, such as blocks and spikes in volleyball
 
