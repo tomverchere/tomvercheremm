@@ -21,6 +21,8 @@ Here is a video analysis of a professional volleyball player, Micah Stahl, doing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mUPhuWTvI1E?si=QYEc5rU__6IWDDaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I identified 4 frames in the video. The first one being the start of the jump, with the arm swing and the player at his lowest knee angle prior to taking off. The second one is right before contact with the ball, where the player extends his back to increase his power. In the third still, the player  makes great contact with the ball at the peak of his jump. The fourth frame is comprised of the player landing. He lands on one foot, which is riskier over time in terms of injuries. Still, this is an amazing jump serve by Micah Stahl.
+
 I ran into some issues trying to embed the Dartfish video, as I could not publish the video on Dartfish since the class' channel had expired. I had to embed it as a youtube video instead.
 
 
