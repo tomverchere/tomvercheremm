@@ -17,11 +17,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-This is my Python Project. It is a graph of FECO<sub>2</sub> and V&#x0307;CO<sub>2</sub> over V&#x0307;O<sub>2</sub>.
+This is my Python Project that was coded inside of a Kaggle notebook. It is a graph of FECO<sub>2</sub> and V&#x0307;CO<sub>2</sub> over V&#x0307;O<sub>2</sub>. It also shows the Gas Exchange Threshold and the Respiratory Compensation point.
 
 <img src="https://raw.githubusercontent.com/tomverchere/tomvercheremm/master/images/PythonGraph.png" alt="Python Graph">
 
-Below is the code I wrote to produce the graph above.
+Below is the code I wrote in the Kaggle notebook to produce the graph above.
 
 <script src="https://gist.github.com/tomverchere/45a3afdd5ee4a9e09f0886ad22e7f75c.js"></script>
 
