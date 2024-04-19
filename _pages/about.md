@@ -14,8 +14,6 @@ In Fall 2024, I will enter the [Werklund School of Education](https://werklund.u
 
 ### More
 
-- My [resume](/pdf/resume.pdf).
-- My <a href="/pdf/resume.pdf" download>resume</a>
-<iframe src="/pdf/resume.pdf" width="100%" height="500px"></iframe>
+- My [resume](/_pages/resume.md)
 
 
