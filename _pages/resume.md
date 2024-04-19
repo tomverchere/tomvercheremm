@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /resume
 title: "My Resume"
 excerpt: "My Resume"
 author_profile: true
