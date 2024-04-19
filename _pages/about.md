@@ -14,4 +14,6 @@ In Fall 2024, I will enter the [Werklund School of Education](https://werklund.u
 
 ### More
 
-- My [resume](/pdf/Resume-TomVerchere.pdf). 
+- My [resume](/pdf/Resume-TomVerchere.pdf).
+- My <a href="/pdf/Resume-TomVerchere.pdf">resume</a>
+
