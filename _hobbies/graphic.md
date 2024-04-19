@@ -17,16 +17,11 @@ gallery:
     alt: "Fishing"
 ---
 
-This is the image I created using GIMP, and the original picture respectively.
-
-![Group of people in front of a lake](/images/gimpimage.png)
-
-<img src="/images/gimpimage.png">
-
+The first image is the one that I created using GIMP, and the second is the original picture.
 
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/images/gimpimage.png)
 
-In the edited picture, I added a hiker in the bottom left, and a dog to the right of the group. I also changed the sky.
+In the edited picture, I added a hiker in the bottom left, and a dog to the right of the group. I did so by adding them as layers on top of the original image and adjusting the resolution and color. I also changed the sky in the background by erasing the original sky and having a picture of a different sky in the layer underneath.
 
 In this project, I've learned how to:
 - Utilize the GIMP software
