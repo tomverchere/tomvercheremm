@@ -19,7 +19,7 @@ gallery:
 
 This is the image I created using GIMP, and the original picture respectively.
 
-<img src="/images/gimpimage.png" alt="Group of people in front of a lake">
+![Group of people in front of a lake](/images/gimpimage.png)
 
 In the edited picture, I added a hiker in the bottom left, and a dog to the right of the group. I also changed the sky.
 
