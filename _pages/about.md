@@ -9,11 +9,11 @@ redirect_from:
 layout: archive
 ---
 
-I am a 4th year student in the [Faculty of Kinesiology]([https://www.me.gatech.edu/](https://www.ucalgary.ca/future-students/undergraduate/explore-programs/kinesiology)) at the University of Calgary. 
+I am a 4th year student in the [Faculty of Kinesiology](https://www.ucalgary.ca/future-students/undergraduate/explore-programs/kinesiology) at the University of Calgary. 
 In Fall 2024, I will enter the [Werklund School of Education](https://werklund.ucalgary.ca) at the University of Calgary for two more years in hopes of becoming a Physical Education teacher.
 
 ### More
 
-- My [resume](/pdf/Resume-TomVerchere.pdf).
-- My <a href="/pdf/Resume-TomVerchere.pdf">resume</a>
+- My [resume](/pdf/resume.pdf).
+- My <a href="/pdf/resume.pdf" download>resume</a>
 
